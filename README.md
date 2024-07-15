@@ -1,4 +1,4 @@
-# habr_frilans
+# habr_frilans_python
 
 ## Описание
 
